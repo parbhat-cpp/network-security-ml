@@ -8,5 +8,6 @@ scikit-learn==1.7.0
 scipy
 dill==0.4.0
 PyYAML==6.0.2
+mlflow
 
 # -e .
