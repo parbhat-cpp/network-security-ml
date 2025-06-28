@@ -204,3 +204,6 @@ catboost_info
 
 # Artifacts
 artifacts
+
+# model pickle file
+final_model

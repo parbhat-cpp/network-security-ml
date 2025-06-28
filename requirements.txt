@@ -8,6 +8,9 @@ scikit-learn==1.7.0
 scipy
 dill==0.4.0
 PyYAML==6.0.2
-mlflow
+mlflow==3.1.1
+dagshub==0.5.10
+fastapi
+uvicorn
 
 # -e .
